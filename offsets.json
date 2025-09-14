@@ -1,16 +1,16 @@
 {
     "offsets": {
-        "uworld": "0x169641B8",
-        "relativelocation": "0x138",
+        "uworld": "0x17B525A8",
+        "relativelocation": "0x140",
         "owningworld": "0xC8",
         "acknowledgedpawn": "0x350",
         "mesh": "0x328",
         "rootcomponent": "0x1B0",
         "localplayers": "0x38",
         "playercontroller": "0x30",
-        "gameinstance": "0x218",
+        "gameinstance": "0x248",
         "pawnprivate": "0x320",
-        "gamestate": "0x1A0",
+        "gamestate": "0x2C8",
         "playerarray": "0x2C0",
         "playerstate": "0x2C8",
         "lastsubmittime": "0x150",
@@ -29,12 +29,13 @@
         "username": "0xAF8"
     },
     "weaponoffsets": {
-        "currentweapon": "0x5C0",
-        "weapondata": "0x600",
-        "ammocount": "0xFA4",
+        "currentweapon": "0x990",
+        "weapondata": "0x570",
+        "ammocount": "0x10D4",
         "itemname": "0x40",
-        "tier": "0x9B",
+        "tier": "0xA2",
         "color": "0x50",
         "isreloading": "0x3B9"
     }
 }
+
